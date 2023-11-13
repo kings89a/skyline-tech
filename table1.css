@@ -1,0 +1,50 @@
+table, th, td{
+
+    
+    border-bottom:1px solid ;
+    border-collapse: collapse;
+    border-color: gray;
+    font-size: 15px;
+
+} 
+
+th{
+
+    background-color: blue;
+    padding: 20px;
+    color:white ;
+    
+
+}
+
+td{
+
+    padding: 10px;
+
+}
+
+div{
+
+    width: 70%;
+    margin: auto;
+}
+ 
+tr:hover{
+    background-color: darkgray;
+
+    
+}
+
+span{
+
+    background-color: green;
+    color: antiquewhite;
+}
+
+button{
+
+    background-color: green;
+    color: antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+}
