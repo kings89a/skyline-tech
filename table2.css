@@ -1,0 +1,33 @@
+table,td,th{
+
+    border-bottom: 2px solid;
+    border-collapse: collapse;
+    border: color(#96d4d9);
+}
+
+table{
+
+    width: 50%;
+    font-size: 20px;
+}
+
+td,th{
+
+    padding: 10px;
+}
+
+th{
+
+    background-color: dodgerblue;
+    color: white;
+}
+
+tr:nth-child(even){
+
+    background-color:lightgray;
+}
+
+tr:hover{
+
+    background-color: darkgray;
+}
